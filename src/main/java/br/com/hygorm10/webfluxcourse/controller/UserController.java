@@ -1,5 +1,7 @@
 package br.com.hygorm10.webfluxcourse.controller;
 
+import br.com.hygorm10.webfluxcourse.model.request.UserRequest;
+import br.com.hygorm10.webfluxcourse.model.response.UserResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
